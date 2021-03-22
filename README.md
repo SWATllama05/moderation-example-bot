@@ -12,5 +12,5 @@ Setting Up Your Bot! 🌟
 
 6. Now you need to start the bot by typing "node ." into your command promt or terminal. 
 
-                                                  **The Bot Is now ready to use**
-                                                  **If you have any questions, DM me on twitter @sean_keane_dev**
+                                                               The Bot Is now ready to use**
+                                                  If you have any questions, DM me on twitter @sean_keane_dev
