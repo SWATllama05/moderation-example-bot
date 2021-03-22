@@ -1,5 +1,6 @@
 // To start this bot type "node ." in the terminal or Command Promt. This bot wont work unless you put your bot token in at the bottom.
 // Make sure to read all the things in the README.md file!
+// Also change the prefix in the .env file!
 
 
 // These are the constanse commands.
